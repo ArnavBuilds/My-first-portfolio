@@ -2,9 +2,13 @@ This is my personal portfolio website created as a task for the GFG Campus Body 
 
 Features:
 .About Me section
+
 .Skills section
+
 .Projects section
+
 .Contact information
+
 .Clean and simple design
 
 How to Use:
